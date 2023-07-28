@@ -12,7 +12,9 @@ public class Run {
 		
 //		ps.ex1();
 //		ps.ex4();
-		ps.ex5();
+//		ps.ex5();
+//		ps.ex6();
+		ps.ex7();
 		
 			
 		
